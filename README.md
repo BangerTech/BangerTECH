@@ -1,4 +1,6 @@
-<img width="1381" alt="BangerTECH" src="https://github.com/BangerTech/BangerTECH/assets/73241309/4796f90a-7c4a-4fbf-9bad-c91dd87b5e49">
+
+![BangerTECH-big](https://github.com/BangerTech/BangerTECH/assets/73241309/957ddfcf-9a28-4689-8fb3-f436abd39617)
+
 
 <p> <a href="https://www.youtube.com/@BangerTECH" target="_blank"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&labelColor=crimson&color=crimson" height=25.5 ></a> <a href="https://www.twitter.com/bangertech" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.instagram.com/banger.tech" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple&color=purple" height=25 ></a> </p>
 <h2>Latest Blog Posts</h2>
